@@ -1,3 +1,3 @@
-# SpringREST-HandsOn
-All the HandsOn of SpringREST, Spring Security
-All day 1-4 Hands On are pushed here
+# Hands on - Spring REST
+## Spring REST, Spring Security
+##day 1-4 Hands ons
